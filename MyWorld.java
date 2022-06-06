@@ -21,7 +21,8 @@ public class MyWorld extends World
         
         for(int i=0; i <= 6; i++){
             dash = dash + 50;
-            addObject(new Virus(), 480, randNum);
+            addObject(new Virus(), 480, randNum); amir hensem
+            
         }
     }
     public void act()
