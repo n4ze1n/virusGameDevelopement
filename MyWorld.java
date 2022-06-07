@@ -14,7 +14,7 @@ public class MyWorld extends World
         
         music.playLoop();
         
-        //bgMusic(music);
+        //bgMusic(music);//hNNn
         
         int randNum;
         randNum = (int) (30 + Math.random() * (50-30+1));
