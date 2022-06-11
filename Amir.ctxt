@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Amir
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Heart\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ heartDisplay()
+comment2.params=num
+comment2.target=void\ setToValue(int)
+comment2.text=\r\n\ Sets\ the\ score\ to\ be\ displayed\ on\ the\ screen\ to\ eaqual\ ine\ integer\ passed.\r\n
+comment3.params=num
+comment3.target=void\ minus(int)
+comment3.text=\r\n\ Add\ the\ integer\ parameter\ to\ the\ score\ display.\r\n
+comment4.params=
+comment4.target=void\ updateScore()
+comment4.text=\r\n\ Update\ the\ screen\ to\ display\ the\ score.\r\n
+numComments=5
