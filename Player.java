@@ -26,5 +26,17 @@ public class Player extends Actor
             setRotation(0);
             }
         }
+        if(isTouching(Vaccine.class)) 
+        {
+            //w.score();
+            w.removeObject(getOneIntersectingObject(Vaccine.class)); //Removes the invisible boundary so that it is not possible to score more than once on the same pipe.
+            Greenfoot.playSound("ping.mp3");
+        }
+
+        if(isTouching(Virus.class))
+        {
+            w.score();
+            //Greenfoot.playSound("death.wav");
+        }
     }
 }
