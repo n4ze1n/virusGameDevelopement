@@ -12,17 +12,19 @@ public class Player extends Actor
     public void act()
     {
         
-        if(Greenfoot.isKeyDown("s" ))
-        {
-            setRotation(90);
-            move(100);
-            setRotation(0);
+        if(getY() == 80 || getY() == 180){ 
+            if(Greenfoot.isKeyDown("s")){
+                setRotation(90);
+                move(100);
+                setRotation(0);
+            }
         }
-        if (Greenfoot.isKeyDown("w "))
-        {
+        if(getY() == 180 || getY() == 280){
+            if (Greenfoot.isKeyDown("w")){
             setRotation(-90);
             move(100);
             setRotation(0);
+            }
         }
     }
 }
