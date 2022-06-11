@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ This\ is\ the\ Game\ Over\ screen\ displayed\ when\ the\ uses\ loses\ the\ game.\ \r\n\ \r\n\ @author\ Achyudh,\ Shantanu\r\n\ @version\ 14/08/2015\r\n
+comment1.params=score
+comment1.target=GameOver(int)
+comment2.params=score
+comment2.target=int\ getBestScore(int)
+comment2.text=\r\n\ Returns\ the\ best\ score\ attained\ by\ the\ player\ and\ checks\ if\ this\ is\ a\ new\ highscore.\r\n\ If\ yes,\ then\ it\ returns\ that\ value\ and\ sets\ it\ as\ the\ high\ score.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Resets\ the\ world\ upon\ pressing\ Enter\ to\ start\ a\ new\ game.\r\n
+numComments=4
