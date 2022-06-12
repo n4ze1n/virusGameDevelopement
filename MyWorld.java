@@ -19,7 +19,7 @@ public class MyWorld extends World
         
         timeDisplay = new Score();
         setTimeText();
-        addObject(timeDisplay, 60, 15);
+        addObject(timeDisplay, 70, 15);
 
         
         addObject(heart, 430, 15);
