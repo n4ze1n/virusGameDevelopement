@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Heart
+comment0.text=\n\ Write\ a\ description\ of\ class\ Heart\ here.\n\ \n\ @_holyship\ \ \n\ @2.6.11\n
+comment1.params=
+comment1.target=Heart()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=void\ loseHealth()
+comment5.params=
+comment5.target=void\ addHealth()
+numComments=6
