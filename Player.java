@@ -1,10 +1,10 @@
-import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+import greenfoot.*;  // (World, Actor, GreenfootImage, Abdul Hannan, Greenfoot and MouseInfo)
 
 /**
  * Write a description of class Player here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @abd 
+ * @2.0
  */
 public class Player extends AllActors
 {
